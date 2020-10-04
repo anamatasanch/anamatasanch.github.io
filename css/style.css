@@ -1,6 +1,7 @@
 p {
    margin: 0px;
    padding: 0px;
+   font-family: 'Nunito', sans-serif;
 }
 
 #content {
@@ -28,6 +29,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
+	font-family: 'Nunito', sans-serif;
 }
 
 .name-container-img{
@@ -44,6 +46,7 @@ p {
     float: right;
     max-height: 340px;
     min-height: 203px;
+	font-family: 'Nunito', sans-serif;
 }
 
 .contact-container-content {
@@ -98,6 +101,7 @@ p {
 
 .skill-container-left ul {
     width: 60%;
+	font-family: 'Nunito', sans-serif;
 }
 
 .skill-container-left li {
@@ -114,6 +118,7 @@ p {
 
 .skill-container-right ul {
     width: 60%;
+	font-family: 'Nunito', sans-serif;
 }
 
 .skill-container-right li {
@@ -125,6 +130,7 @@ p {
     height:20%;
     display: flex;
     justify-content: center;
+	font-family: 'Yeseva One', cursive;
 }
 
 .skill-progress {
@@ -216,15 +222,17 @@ p {
     width: 100%;
     padding-top: 30%;
     text-align: center;
-    font-style: italic;
 }
 
 .square-container-text h1 {
-    font-size: 8vw;
+    font-size: 6.7vw;
+	font-family: 'Yeseva One', cursive;
+	font-style: italic;
 }
 
 .square-container-text p {
     font-size: 3.5vw;
+	font-family: 'Nunito', sans-serif;
 }
 
 .project1-container {
@@ -312,7 +320,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-style: italic;
+	font-family: 'Yeseva One', cursive;
 }
 
 
