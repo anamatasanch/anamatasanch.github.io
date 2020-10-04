@@ -1,2 +1,0 @@
-# anamatasanch.github.io
- Portfolio
